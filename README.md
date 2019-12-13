@@ -6,5 +6,7 @@ Le déploiement de ce template est fait via Github pages.
 ### Deadline : 13/12/2019
 ### Ressources utilisées :
 https://templated.co
+
 https://www.free-css.com/free-css-templates
+
 https://html5up.net
